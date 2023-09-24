@@ -1,0 +1,25 @@
+!! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.72.2
+Flutter extension: 3.72.0 (not activated)
+
+App: Visual Studio Code
+App Host: desktop
+Version: 1.82.2
+Platform: win
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+
+Logging Categories:
+    FlutterDaemon
+
+Sat Sep 23 2023 [22:12:07 GMT-0300 (Horário Padrão de Brasília)] Log file started
+[00:21:20] [General] [Warn] No program was set in launch config
+[00:21:56] [General] [Warn] Launch config references non-existant file C:\Users\Davyd Cristiano\Desktop\dio_projects\minha_calculadora_imc\bin\minha_calculadora_imc
+[01:51:10] [General] [Warn] Project has errors, prompting user
+[01:51:10] [General] [Warn]     C:\Users\Davyd Cristiano\Desktop\dio_projects\minha_calculadora_imc\bin\minha_calculadora_imc.dart:35:9
+[01:51:10] [General] [Warn]     The body might complete normally, causing 'null' to be returned, but the return type, 'String', is a potentially non-nullable type.
+[02:48:48] [General] [Warn] Project has errors, prompting user
+[02:48:48] [General] [Warn]     C:\Users\Davyd Cristiano\Desktop\dio_projects\minha_calculadora_imc\bin\minha_calculadora_imc.dart:67:32
+[02:48:48] [General] [Warn]     3 positional arguments expected by 'Pessoa.new', but 0 found.
